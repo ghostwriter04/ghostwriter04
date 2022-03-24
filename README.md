@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ghostwriter04
 - 👀 I’m interested in Competitive Coding
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on App Develpment Projects
+- 🌱 I’m currently learning C/C++, Python
+- 💞️ I’m looking to collaborate on Web Develpment and Maschine Learning Projects
 - 📫 My LinkedIn Profile:https://www.linkedin.com/in/jash-naik-b31b06135/
 
 <!---
