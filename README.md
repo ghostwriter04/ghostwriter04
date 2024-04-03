@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghostwriter04
+- 👋 Hi, I’m @jashnaik4
 - 👀 I’m interested in Competitive Coding
 - 🌱 I’m currently learning C/C++, Python
 - 💞️ I’m looking to collaborate on Web Develpment and Maschine Learning Projects
